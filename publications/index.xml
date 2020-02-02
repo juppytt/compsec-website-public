@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Compsec Homepage</title>
-    <link>http://localhost:1313/compsec-website-public/publications/</link>
+    <link>https://juppytt.github.io/compsec-website-public/publications/</link>
     <description>Recent content in Publications on Compsec Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/compsec-website-public/publications/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://juppytt.github.io/compsec-website-public/publications/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Razzer: Finding Kernel Race Bugs through Fuzzing</title>
-      <link>http://localhost:1313/compsec-website-public/publications/razzer/</link>
+      <link>https://juppytt.github.io/compsec-website-public/publications/razzer/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/compsec-website-public/publications/razzer/</guid>
+      <guid>https://juppytt.github.io/compsec-website-public/publications/razzer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>All Your Clicks Belong to Me: Investigating Click Interception on the Web</title>
-      <link>http://localhost:1313/compsec-website-public/publications/clicks/</link>
+      <link>https://juppytt.github.io/compsec-website-public/publications/clicks/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/compsec-website-public/publications/clicks/</guid>
+      <guid>https://juppytt.github.io/compsec-website-public/publications/clicks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Obliviate: A Data Oblivious Filesystem for Intel SGX</title>
-      <link>http://localhost:1313/compsec-website-public/publications/paper1/</link>
+      <link>https://juppytt.github.io/compsec-website-public/publications/paper1/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/compsec-website-public/publications/paper1/</guid>
+      <guid>https://juppytt.github.io/compsec-website-public/publications/paper1/</guid>
       <description></description>
     </item>
     
