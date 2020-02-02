@@ -3,90 +3,90 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://compsec-snu.com/board/</loc>
+    <loc>http://localhost:1313/compsec-website-public/board/</loc>
     <lastmod>2020-01-12T20:20:32+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://compsec-snu.com/board/my-first-post/</loc>
+    <loc>http://localhost:1313/compsec-website-public/board/my-first-post/</loc>
     <lastmod>2020-01-12T20:20:32+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://compsec-snu.com/</loc>
+    <loc>http://localhost:1313/compsec-website-public/</loc>
     <lastmod>2020-01-12T20:20:32+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://compsec-snu.com/publications/</loc>
+    <loc>http://localhost:1313/compsec-website-public/publications/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://compsec-snu.com/publications/razzer/</loc>
+    <loc>http://localhost:1313/compsec-website-public/publications/razzer/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://compsec-snu.com/publications/clicks/</loc>
+    <loc>http://localhost:1313/compsec-website-public/publications/clicks/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://compsec-snu.com/publications/paper1/</loc>
+    <loc>http://localhost:1313/compsec-website-public/publications/paper1/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://compsec-snu.com/people/abby/</loc>
+    <loc>http://localhost:1313/compsec-website-public/people/abby/</loc>
   </url>
   
   <url>
-    <loc>https://compsec-snu.com/people/bigbird/</loc>
+    <loc>http://localhost:1313/compsec-website-public/people/bigbird/</loc>
   </url>
   
   <url>
-    <loc>https://compsec-snu.com/people/blee/</loc>
+    <loc>http://localhost:1313/compsec-website-public/people/blee/</loc>
   </url>
   
   <url>
-    <loc>https://compsec-snu.com/people/professor/</loc>
+    <loc>http://localhost:1313/compsec-website-public/people/professor/</loc>
   </url>
   
   <url>
-    <loc>https://compsec-snu.com/categories/</loc>
+    <loc>http://localhost:1313/compsec-website-public/categories/</loc>
   </url>
   
   <url>
-    <loc>https://compsec-snu.com/people/cookie/</loc>
+    <loc>http://localhost:1313/compsec-website-public/people/cookie/</loc>
   </url>
   
   <url>
-    <loc>https://compsec-snu.com/people/elmo/</loc>
+    <loc>http://localhost:1313/compsec-website-public/people/elmo/</loc>
   </url>
   
   <url>
-    <loc>https://compsec-snu.com/people/erni/</loc>
+    <loc>http://localhost:1313/compsec-website-public/people/erni/</loc>
   </url>
   
   <url>
-    <loc>https://compsec-snu.com/people/</loc>
+    <loc>http://localhost:1313/compsec-website-public/people/</loc>
   </url>
   
   <url>
-    <loc>https://compsec-snu.com/research/</loc>
+    <loc>http://localhost:1313/compsec-website-public/research/</loc>
   </url>
   
   <url>
-    <loc>https://compsec-snu.com/people/defult/</loc>
+    <loc>http://localhost:1313/compsec-website-public/people/defult/</loc>
   </url>
   
   <url>
-    <loc>https://compsec-snu.com/tags/</loc>
+    <loc>http://localhost:1313/compsec-website-public/tags/</loc>
   </url>
   
   <url>
-    <loc>https://compsec-snu.com/people/tux/</loc>
+    <loc>http://localhost:1313/compsec-website-public/people/tux/</loc>
   </url>
   
 </urlset>

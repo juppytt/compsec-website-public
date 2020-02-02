@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>People on Compsec Homepage</title>
-    <link>https://compsec-snu.com/people/</link>
+    <link>http://localhost:1313/compsec-website-public/people/</link>
     <description>Recent content in People on Compsec Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://compsec-snu.com/people/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/compsec-website-public/people/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Abby Cadabby</title>
-      <link>https://compsec-snu.com/people/abby/</link>
+      <link>http://localhost:1313/compsec-website-public/people/abby/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://compsec-snu.com/people/abby/</guid>
+      <guid>http://localhost:1313/compsec-website-public/people/abby/</guid>
       <description>Research Interest  Publications  </description>
     </item>
     
     <item>
       <title>Bigbird Longname</title>
-      <link>https://compsec-snu.com/people/bigbird/</link>
+      <link>http://localhost:1313/compsec-website-public/people/bigbird/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://compsec-snu.com/people/bigbird/</guid>
+      <guid>http://localhost:1313/compsec-website-public/people/bigbird/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blee</title>
-      <link>https://compsec-snu.com/people/blee/</link>
+      <link>http://localhost:1313/compsec-website-public/people/blee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://compsec-snu.com/people/blee/</guid>
+      <guid>http://localhost:1313/compsec-website-public/people/blee/</guid>
       <description>Research Interest   interest 1 interest 2  Publications   paper 1 paper 2  </description>
     </item>
     
     <item>
       <title>Byoungyoung Lee</title>
-      <link>https://compsec-snu.com/people/professor/</link>
+      <link>http://localhost:1313/compsec-website-public/people/professor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://compsec-snu.com/people/professor/</guid>
+      <guid>http://localhost:1313/compsec-website-public/people/professor/</guid>
       <description>Research Interest   Software and System security  Publications  2019
   uXOM: Efficient eXecute-Only Memory on ARM Cortex-M
 Donghyun Kwon, Jangseop Shin, Giyeol Kim, Byoungyoung Lee, Yeongpil Cho, and Yunheung Paek USENIX Security Symposium (Security) 2019
@@ -53,46 +53,46 @@ Mingxue Zhang, Wei Meng, Sangho Lee, Byoungyoung Lee, and Xinyu Xing USENIX Secu
     
     <item>
       <title>Cookie Moster</title>
-      <link>https://compsec-snu.com/people/cookie/</link>
+      <link>http://localhost:1313/compsec-website-public/people/cookie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://compsec-snu.com/people/cookie/</guid>
+      <guid>http://localhost:1313/compsec-website-public/people/cookie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elmo</title>
-      <link>https://compsec-snu.com/people/elmo/</link>
+      <link>http://localhost:1313/compsec-website-public/people/elmo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://compsec-snu.com/people/elmo/</guid>
+      <guid>http://localhost:1313/compsec-website-public/people/elmo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ernie</title>
-      <link>https://compsec-snu.com/people/erni/</link>
+      <link>http://localhost:1313/compsec-website-public/people/erni/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://compsec-snu.com/people/erni/</guid>
+      <guid>http://localhost:1313/compsec-website-public/people/erni/</guid>
       <description>Research Interest  Publications  </description>
     </item>
     
     <item>
       <title>someone with no pic</title>
-      <link>https://compsec-snu.com/people/defult/</link>
+      <link>http://localhost:1313/compsec-website-public/people/defult/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://compsec-snu.com/people/defult/</guid>
+      <guid>http://localhost:1313/compsec-website-public/people/defult/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tux</title>
-      <link>https://compsec-snu.com/people/tux/</link>
+      <link>http://localhost:1313/compsec-website-public/people/tux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://compsec-snu.com/people/tux/</guid>
+      <guid>http://localhost:1313/compsec-website-public/people/tux/</guid>
       <description></description>
     </item>
     

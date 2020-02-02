@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Boards on Compsec Homepage</title>
-        <link>https://compsec-snu.com/board/</link>
+        <link>http://localhost:1313/compsec-website-public/board/</link>
         <description>Recent content in Boards on Compsec Homepage</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Sun, 12 Jan 2020 20:20:32 +0900</lastBuildDate>
-        <atom:link href="https://compsec-snu.com/board/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/compsec-website-public/board/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Example page</title>
-            <link>https://compsec-snu.com/board/my-first-post/</link>
+            <link>http://localhost:1313/compsec-website-public/board/my-first-post/</link>
             <pubDate>Sun, 12 Jan 2020 20:20:32 +0900</pubDate>
             
-            <guid>https://compsec-snu.com/board/my-first-post/</guid>
+            <guid>http://localhost:1313/compsec-website-public/board/my-first-post/</guid>
             <description>Introduction Introduction. This is the introduction.
 Content This is the content.
 Images can be easily inserted by
