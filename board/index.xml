@@ -1,0 +1,40 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Boards on Compsec Homepage</title>
+        <link>https://compsec-snu.com/board/</link>
+        <description>Recent content in Boards on Compsec Homepage</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 12 Jan 2020 20:20:32 +0900</lastBuildDate>
+        <atom:link href="https://compsec-snu.com/board/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Example page</title>
+            <link>https://compsec-snu.com/board/my-first-post/</link>
+            <pubDate>Sun, 12 Jan 2020 20:20:32 +0900</pubDate>
+            
+            <guid>https://compsec-snu.com/board/my-first-post/</guid>
+            <description>Introduction Introduction. This is the introduction.
+Content This is the content.
+Images can be easily inserted by
+![Alt text](/path/to/img.jpg) or
+{{ &amp;lt; image src=&amp;#34;/path/to/img.jpg&amp;#34; style=&amp;#34;width: 50%&amp;#34; &amp;gt; }} (remove spaces between &amp;lsquo;{{&#39;, &amp;lsquo;&amp;lt;&amp;rsquo; and &amp;lsquo;&amp;gt;&amp;rsquo;, &amp;lsquo;}}&#39;. ) </description>
+            <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>Introduction. This is the introduction.</p>
+<h2 id="content">Content</h2>
+<p>This is the content.</p>
+<p>Images can be easily inserted by</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">![Alt text](/path/to/img.jpg)
+</code></pre></div><p><img src="/img/people/blee.png" alt="testimg"></p>
+<p>or</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">{{ &lt; <span style="color:#f92672">image</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;/path/to/img.jpg&#34;</span> <span style="color:#a6e22e">style</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;width: 50%&#34;</span> &gt; }}
+</code></pre></div><p>(remove spaces between &lsquo;{{', &lsquo;&lt;&rsquo; and &lsquo;&gt;&rsquo;, &lsquo;}}'. )
+
+    <img src="/img/people/blee.png"  class="left"  style="width: 50%; padding: 30px;"  />
+
+</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

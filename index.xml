@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Front page on Compsec Homepage</title>
+    <link>https://compsec-snu.com/</link>
+    <description>Recent content in Front page on Compsec Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jan 2020 20:20:32 +0900</lastBuildDate>
+    
+	<atom:link href="https://compsec-snu.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example page</title>
+      <link>https://compsec-snu.com/board/my-first-post/</link>
+      <pubDate>Sun, 12 Jan 2020 20:20:32 +0900</pubDate>
+      
+      <guid>https://compsec-snu.com/board/my-first-post/</guid>
+      <description>Introduction Introduction. This is the introduction.
+Content This is the content.
+Images can be easily inserted by
+![Alt text](/path/to/img.jpg) or
+{{ &amp;lt; image src=&amp;#34;/path/to/img.jpg&amp;#34; style=&amp;#34;width: 50%&amp;#34; &amp;gt; }} (remove spaces between &amp;lsquo;{{&#39;, &amp;lsquo;&amp;lt;&amp;rsquo; and &amp;lsquo;&amp;gt;&amp;rsquo;, &amp;lsquo;}}&#39;. ) </description>
+    </item>
+    
+    <item>
+      <title>Razzer: Finding Kernel Race Bugs through Fuzzing</title>
+      <link>https://compsec-snu.com/publications/razzer/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://compsec-snu.com/publications/razzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All Your Clicks Belong to Me: Investigating Click Interception on the Web</title>
+      <link>https://compsec-snu.com/publications/clicks/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://compsec-snu.com/publications/clicks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obliviate: A Data Oblivious Filesystem for Intel SGX</title>
+      <link>https://compsec-snu.com/publications/paper1/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://compsec-snu.com/publications/paper1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abby Cadabby</title>
+      <link>https://compsec-snu.com/people/abby/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://compsec-snu.com/people/abby/</guid>
+      <description>Research Interest  Publications  </description>
+    </item>
+    
+    <item>
+      <title>Bigbird Longname</title>
+      <link>https://compsec-snu.com/people/bigbird/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://compsec-snu.com/people/bigbird/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blee</title>
+      <link>https://compsec-snu.com/people/blee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://compsec-snu.com/people/blee/</guid>
+      <description>Research Interest   interest 1 interest 2  Publications   paper 1 paper 2  </description>
+    </item>
+    
+    <item>
+      <title>Byoungyoung Lee</title>
+      <link>https://compsec-snu.com/people/professor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://compsec-snu.com/people/professor/</guid>
+      <description>Research Interest   Software and System security  Publications  2019
+  uXOM: Efficient eXecute-Only Memory on ARM Cortex-M
+Donghyun Kwon, Jangseop Shin, Giyeol Kim, Byoungyoung Lee, Yeongpil Cho, and Yunheung Paek USENIX Security Symposium (Security) 2019
+  All Your Clicks Belong to Me: Investigating Click Interception on the Web
+Mingxue Zhang, Wei Meng, Sangho Lee, Byoungyoung Lee, and Xinyu Xing USENIX Security Symposium (Security) 2019
+  Razzer: Finding Kernel Race Bugs through Fuzzing</description>
+    </item>
+    
+    <item>
+      <title>Cookie Moster</title>
+      <link>https://compsec-snu.com/people/cookie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://compsec-snu.com/people/cookie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elmo</title>
+      <link>https://compsec-snu.com/people/elmo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://compsec-snu.com/people/elmo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ernie</title>
+      <link>https://compsec-snu.com/people/erni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://compsec-snu.com/people/erni/</guid>
+      <description>Research Interest  Publications  </description>
+    </item>
+    
+    <item>
+      <title>someone with no pic</title>
+      <link>https://compsec-snu.com/people/defult/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://compsec-snu.com/people/defult/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tux</title>
+      <link>https://compsec-snu.com/people/tux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://compsec-snu.com/people/tux/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

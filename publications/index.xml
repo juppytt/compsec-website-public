@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Compsec Homepage</title>
+    <link>https://compsec-snu.com/publications/</link>
+    <description>Recent content in Publications on Compsec Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://compsec-snu.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Razzer: Finding Kernel Race Bugs through Fuzzing</title>
+      <link>https://compsec-snu.com/publications/razzer/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://compsec-snu.com/publications/razzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All Your Clicks Belong to Me: Investigating Click Interception on the Web</title>
+      <link>https://compsec-snu.com/publications/clicks/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://compsec-snu.com/publications/clicks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obliviate: A Data Oblivious Filesystem for Intel SGX</title>
+      <link>https://compsec-snu.com/publications/paper1/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://compsec-snu.com/publications/paper1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
