@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/JuHiKim/bin/compsec-website",
+	"sourceRoot": "/home/user/bin/compsec_website/compsec-website/src",
 	"sources": [
 		"assets/scss/main.scss",
 		"assets/scss/_normalize.scss",
