@@ -21,7 +21,7 @@
 Content This is the content.
 Images can be easily inserted by
 ![Alt text](/path/to/img.jpg) or
-{{ &amp;lt; image src=&amp;#34;/path/to/img.jpg&amp;#34; style=&amp;#34;width: 50%&amp;#34; &amp;gt; }} (remove spaces between &amp;lsquo;{{&#39;, &amp;lsquo;&amp;lt;&amp;rsquo; and &amp;lsquo;&amp;gt;&amp;rsquo;, &amp;lsquo;}}&#39;. ) </description>
+{{ &amp;lt; image src=&amp;#34;/path/to/img.jpg&amp;#34; style=&amp;#34;width: 50%&amp;#34; &amp;gt; }} (remove spaces between &amp;lsquo;{{&amp;rsquo;, &amp;lsquo;&amp;lt;&amp;rsquo; and &amp;lsquo;&amp;gt;&amp;rsquo;, &amp;lsquo;}}&amp;rsquo;. ) </description>
     </item>
     
     <item>
@@ -44,46 +44,19 @@ Images can be easily inserted by
     
     <item>
       <title>Obliviate: A Data Oblivious Filesystem for Intel SGX</title>
-      <link>https://juppytt.github.io/compsec-website-public/publications/paper1/</link>
+      <link>https://juppytt.github.io/compsec-website-public/publications/obliviate/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://juppytt.github.io/compsec-website-public/publications/paper1/</guid>
+      <guid>https://juppytt.github.io/compsec-website-public/publications/obliviate/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Abby Cadabby</title>
-      <link>https://juppytt.github.io/compsec-website-public/people/abby/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juppytt.github.io/compsec-website-public/people/abby/</guid>
-      <description>Research Interest  Publications  </description>
-    </item>
-    
-    <item>
-      <title>Bigbird Longname</title>
-      <link>https://juppytt.github.io/compsec-website-public/people/bigbird/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juppytt.github.io/compsec-website-public/people/bigbird/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blee</title>
-      <link>https://juppytt.github.io/compsec-website-public/people/blee/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juppytt.github.io/compsec-website-public/people/blee/</guid>
-      <description>Research Interest   interest 1 interest 2  Publications   paper 1 paper 2  </description>
     </item>
     
     <item>
       <title>Byoungyoung Lee</title>
-      <link>https://juppytt.github.io/compsec-website-public/people/professor/</link>
+      <link>https://juppytt.github.io/compsec-website-public/people/byoungyounglee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juppytt.github.io/compsec-website-public/people/professor/</guid>
+      <guid>https://juppytt.github.io/compsec-website-public/people/byoungyounglee/</guid>
       <description>Research Interest   Software and System security  Publications  2019
   uXOM: Efficient eXecute-Only Memory on ARM Cortex-M
 Donghyun Kwon, Jangseop Shin, Giyeol Kim, Byoungyoung Lee, Yeongpil Cho, and Yunheung Paek USENIX Security Symposium (Security) 2019
@@ -93,48 +66,111 @@ Mingxue Zhang, Wei Meng, Sangho Lee, Byoungyoung Lee, and Xinyu Xing USENIX Secu
     </item>
     
     <item>
-      <title>Cookie Moster</title>
-      <link>https://juppytt.github.io/compsec-website-public/people/cookie/</link>
+      <title>Cheolwoo Myung</title>
+      <link>https://juppytt.github.io/compsec-website-public/people/cheolwoomyung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juppytt.github.io/compsec-website-public/people/cookie/</guid>
+      <guid>https://juppytt.github.io/compsec-website-public/people/cheolwoomyung/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Elmo</title>
-      <link>https://juppytt.github.io/compsec-website-public/people/elmo/</link>
+      <title>Gwangmu Lee</title>
+      <link>https://juppytt.github.io/compsec-website-public/people/gwangmulee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juppytt.github.io/compsec-website-public/people/elmo/</guid>
+      <guid>https://juppytt.github.io/compsec-website-public/people/gwangmulee/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ernie</title>
-      <link>https://juppytt.github.io/compsec-website-public/people/erni/</link>
+      <title>Jaewon Hur</title>
+      <link>https://juppytt.github.io/compsec-website-public/people/jaewonhur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juppytt.github.io/compsec-website-public/people/erni/</guid>
-      <description>Research Interest  Publications  </description>
-    </item>
-    
-    <item>
-      <title>someone with no pic</title>
-      <link>https://juppytt.github.io/compsec-website-public/people/defult/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juppytt.github.io/compsec-website-public/people/defult/</guid>
+      <guid>https://juppytt.github.io/compsec-website-public/people/jaewonhur/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tux</title>
-      <link>https://juppytt.github.io/compsec-website-public/people/tux/</link>
+      <title>Jinhan Kwak</title>
+      <link>https://juppytt.github.io/compsec-website-public/people/jinhankwak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juppytt.github.io/compsec-website-public/people/tux/</guid>
+      <guid>https://juppytt.github.io/compsec-website-public/people/jinhankwak/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Jinwoo Lee</title>
+      <link>https://juppytt.github.io/compsec-website-public/people/jinwoolee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/people/jinwoolee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juhee Kim</title>
+      <link>https://juppytt.github.io/compsec-website-public/people/juheekim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/people/juheekim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyungwook Boo</title>
+      <link>https://juppytt.github.io/compsec-website-public/people/kyungwookboo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/people/kyungwookboo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sangyoon Kim</title>
+      <link>https://juppytt.github.io/compsec-website-public/people/sangyoonkim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/people/sangyoonkim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seonghyun Park</title>
+      <link>https://juppytt.github.io/compsec-website-public/people/seonghyunpark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/people/seonghyunpark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suhwan Song</title>
+      <link>https://juppytt.github.io/compsec-website-public/people/suhwansong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/people/suhwansong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sunwoo Kim</title>
+      <link>https://juppytt.github.io/compsec-website-public/people/sunwookim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/people/sunwookim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoochan Lee</title>
+      <link>https://juppytt.github.io/compsec-website-public/people/yoochanlee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/people/yoochanlee/</guid>
+      <description>Publications  </description>
     </item>
     
   </channel>
