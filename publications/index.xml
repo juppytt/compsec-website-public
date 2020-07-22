@@ -1,15 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Compsec Homepage</title>
+    <title>Publications on CompSec Homepage</title>
     <link>https://juppytt.github.io/compsec-website-public/publications/</link>
-    <description>Recent content in Publications on Compsec Homepage</description>
+    <description>Recent content in Publications on CompSec Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://juppytt.github.io/compsec-website-public/publications/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HFL: Hybrid Fuzzing on the Linux Kernel</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/hfl-hybrid-fuzzing-on-the-linux-kernel/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/hfl-hybrid-fuzzing-on-the-linux-kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All Your Clicks Belong to Me: Investigating Click Interception on the Web</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/all-your-clicks-belong-to-me-investigating-click-interception-on-the-web/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/all-your-clicks-belong-to-me-investigating-click-interception-on-the-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uXOM: Efficient eXecute-Only Memory on ARM Cortex-M</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/uxom-efficient-executeonly-memory-on-arm-cortexm/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/uxom-efficient-executeonly-memory-on-arm-cortexm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Razzer: Finding Kernel Race Bugs through Fuzzing</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/razzer-finding-kernel-race-bugs-through-fuzzing/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/razzer-finding-kernel-race-bugs-through-fuzzing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PoLPer: Process-Aware Restriction of Over-Privileged Setuid Calls in Legacy Applications</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/polper-processaware-restriction-of-overprivileged-setuid-calls-in-legacy-applications/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/polper-processaware-restriction-of-overprivileged-setuid-calls-in-legacy-applications/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Razzer: Finding Kernel Race Bugs through Fuzzing</title>
@@ -17,6 +62,15 @@
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://juppytt.github.io/compsec-website-public/publications/razzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OBFUSCURO: A Commodity Obfuscation Engine on Intel SGX</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/obfuscuro-a-commodity-obfuscation-engine-on-intel-sgx/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/obfuscuro-a-commodity-obfuscation-engine-on-intel-sgx/</guid>
       <description></description>
     </item>
     
@@ -30,11 +84,191 @@
     </item>
     
     <item>
+      <title>Enhancing Memory Error Detection for Large-Scale Applications and Fuzz Testing</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/enhancing-memory-error-detection-for-largescale-applications-and-fuzz-testing/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/enhancing-memory-error-detection-for-largescale-applications-and-fuzz-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obliviate: A Data Oblivious Filesystem for Intel SGX</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/obliviate-a-data-oblivious-filesystem-for-intel-sgx/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/obliviate-a-data-oblivious-filesystem-for-intel-sgx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Securing Real-Time Microcontroller Systems through Customized Memory View Switching</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/securing-realtime-microcontroller-systems-through-customized-memory-view-switching/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/securing-realtime-microcontroller-systems-through-customized-memory-view-switching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Obliviate: A Data Oblivious Filesystem for Intel SGX</title>
       <link>https://juppytt.github.io/compsec-website-public/publications/obliviate/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://juppytt.github.io/compsec-website-public/publications/obliviate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HexType: Efficient Detection of Type Confusion Errors for C&#43;&#43;</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/hextype-efficient-detection-of-type-confusion-errors-for-c/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/hextype-efficient-detection-of-type-confusion-errors-for-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAB-Fuzz: Practical Concolic Testing Techniques for COTS Operating Systems</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/cabfuzz-practical-concolic-testing-techniques-for-cots-operating-systems/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/cabfuzz-practical-concolic-testing-techniques-for-cots-operating-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SGX-Shield: Enabling Address Space Layout Randomization for SGX Programs</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/sgxshield-enabling-address-space-layout-randomization-for-sgx-programs/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/sgxshield-enabling-address-space-layout-randomization-for-sgx-programs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instant OS Updates via Userspace Checkpoint-and-Restart</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/instant-os-updates-via-userspace-checkpointandrestart/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/instant-os-updates-via-userspace-checkpointandrestart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HDFI: Hardware-assisted Data-Flow Isolation</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/hdfi-hardwareassisted-dataflow-isolation/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/hdfi-hardwareassisted-dataflow-isolation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TrackMeOrNot: Enabling Flexible Control on Web Tracking</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/trackmeornot-enabling-flexible-control-on-web-tracking/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/trackmeornot-enabling-flexible-control-on-web-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enforcing Kernel Security Invariants with Data Flow Integrity</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/enforcing-kernel-security-invariants-with-data-flow-integrity/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/enforcing-kernel-security-invariants-with-data-flow-integrity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASLR-Guard: Stopping Address Space Leakage for Code Reuse Attacks</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/aslrguard-stopping-address-space-leakage-for-code-reuse-attacks/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/aslrguard-stopping-address-space-leakage-for-code-reuse-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-checking Semantic Correctness: The Case of Finding File System Bugs</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/crosschecking-semantic-correctness-the-case-of-finding-file-system-bugs/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/crosschecking-semantic-correctness-the-case-of-finding-file-system-bugs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type Casting Verification: Stopping an Emerging Attack Vector</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/type-casting-verification-stopping-an-emerging-attack-vector/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/type-casting-verification-stopping-an-emerging-attack-vector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Malvertising Through Ad-Injecting Browser Extensions</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/understanding-malvertising-through-adinjecting-browser-extensions/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/understanding-malvertising-through-adinjecting-browser-extensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preventing Use-after-free with Dangling Pointers Nullification</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/preventing-useafterfree-with-dangling-pointers-nullification/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/preventing-useafterfree-with-dangling-pointers-nullification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abusing Performance Optimization Weaknesses to Bypass ASLR</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/abusing-performance-optimization-weaknesses-to-bypass-aslr/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/abusing-performance-optimization-weaknesses-to-bypass-aslr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Unpatched iOS Vulnerabilities for Fun and Profit</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/exploiting-unpatched-ios-vulnerabilities-for-fun-and-profit/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/exploiting-unpatched-ios-vulnerabilities-for-fun-and-profit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Zygote to Morula: Fortifying weakened ASLR on Android</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/from-zygote-to-morula-fortifying-weakened-aslr-on-android/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/from-zygote-to-morula-fortifying-weakened-aslr-on-android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protecting Location Privacy Using Location Semantics</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/protecting-location-privacy-using-location-semantics/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/protecting-location-privacy-using-location-semantics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>binOb&#43;: A Framework for Potent and Stealthy Binary Obfuscation</title>
+      <link>https://juppytt.github.io/compsec-website-public/publications/binob-a-framework-for-potent-and-stealthy-binary-obfuscation/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://juppytt.github.io/compsec-website-public/publications/binob-a-framework-for-potent-and-stealthy-binary-obfuscation/</guid>
       <description></description>
     </item>
     

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>People on Compsec Homepage</title>
+    <title>People on CompSec Homepage</title>
     <link>https://juppytt.github.io/compsec-website-public/people/</link>
-    <description>Recent content in People on Compsec Homepage</description>
+    <description>Recent content in People on CompSec Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -88,11 +88,11 @@ Mingxue Zhang, Wei Meng, Sangho Lee, Byoungyoung Lee, and Xinyu Xing USENIX Secu
     </item>
     
     <item>
-      <title>Sangyoon Kim</title>
-      <link>https://juppytt.github.io/compsec-website-public/people/sangyoonkim/</link>
+      <title>Sangyun Kim</title>
+      <link>https://juppytt.github.io/compsec-website-public/people/sangyunkim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juppytt.github.io/compsec-website-public/people/sangyoonkim/</guid>
+      <guid>https://juppytt.github.io/compsec-website-public/people/sangyunkim/</guid>
       <description></description>
     </item>
     

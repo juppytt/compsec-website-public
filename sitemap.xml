@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://juppytt.github.io/compsec-website-public/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/hfl-hybrid-fuzzing-on-the-linux-kernel/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://juppytt.github.io/compsec-website-public/board/</loc>
     <lastmod>2020-01-12T20:20:32+09:00</lastmod>
   </url>
@@ -13,12 +28,22 @@
   </url>
   
   <url>
-    <loc>https://juppytt.github.io/compsec-website-public/</loc>
-    <lastmod>2020-01-12T20:20:32+09:00</lastmod>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/all-your-clicks-belong-to-me-investigating-click-interception-on-the-web/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://juppytt.github.io/compsec-website-public/publications/</loc>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/uxom-efficient-executeonly-memory-on-arm-cortexm/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/razzer-finding-kernel-race-bugs-through-fuzzing/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/polper-processaware-restriction-of-overprivileged-setuid-calls-in-legacy-applications/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,13 +53,118 @@
   </url>
   
   <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/obfuscuro-a-commodity-obfuscation-engine-on-intel-sgx/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://juppytt.github.io/compsec-website-public/publications/clicks/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/enhancing-memory-error-detection-for-largescale-applications-and-fuzz-testing/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/obliviate-a-data-oblivious-filesystem-for-intel-sgx/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/securing-realtime-microcontroller-systems-through-customized-memory-view-switching/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://juppytt.github.io/compsec-website-public/publications/obliviate/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/hextype-efficient-detection-of-type-confusion-errors-for-c/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/cabfuzz-practical-concolic-testing-techniques-for-cots-operating-systems/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/sgxshield-enabling-address-space-layout-randomization-for-sgx-programs/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/instant-os-updates-via-userspace-checkpointandrestart/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/hdfi-hardwareassisted-dataflow-isolation/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/trackmeornot-enabling-flexible-control-on-web-tracking/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/enforcing-kernel-security-invariants-with-data-flow-integrity/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/aslrguard-stopping-address-space-leakage-for-code-reuse-attacks/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/crosschecking-semantic-correctness-the-case-of-finding-file-system-bugs/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/type-casting-verification-stopping-an-emerging-attack-vector/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/understanding-malvertising-through-adinjecting-browser-extensions/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/preventing-useafterfree-with-dangling-pointers-nullification/</loc>
+    <lastmod>2015-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/abusing-performance-optimization-weaknesses-to-bypass-aslr/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/exploiting-unpatched-ios-vulnerabilities-for-fun-and-profit/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/from-zygote-to-morula-fortifying-weakened-aslr-on-android/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/protecting-location-privacy-using-location-semantics/</loc>
+    <lastmod>2011-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juppytt.github.io/compsec-website-public/publications/binob-a-framework-for-potent-and-stealthy-binary-obfuscation/</loc>
+    <lastmod>2010-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -82,7 +212,7 @@
   </url>
   
   <url>
-    <loc>https://juppytt.github.io/compsec-website-public/people/sangyoonkim/</loc>
+    <loc>https://juppytt.github.io/compsec-website-public/people/sangyunkim/</loc>
   </url>
   
   <url>
